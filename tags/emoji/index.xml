@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on 你離開之後</title>
+    <link>https://willsonyen.github.io/tags/emoji/</link>
+    <description>Recent content in emoji on 你離開之後</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Oct 2020 10:13:20 +0800</lastBuildDate><atom:link href="https://willsonyen.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://willsonyen.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Sun, 18 Oct 2020 10:13:20 +0800</pubDate>
+      
+      <guid>https://willsonyen.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/</guid>
+      <description>jdioereoignr wjreifgojior jioefgiwoerg
+jewiofge njieowf jnioewf noefiw</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://willsonyen.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willsonyen.github.io/post/emoji-support/</guid>
+      <description>我是一隻魚，我不能夠忘記你。
+測試看看這個子體型不行啊 </description>
+    </item>
+    
+  </channel>
+</rss>
