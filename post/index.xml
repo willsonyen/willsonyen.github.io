@@ -8,25 +8,11 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://willsonyen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第3天</title>
-      <link>https://willsonyen.github.io/post/markdown-syntax/</link>
+      <title>第1天</title>
+      <link>https://willsonyen.github.io/post/day1/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://willsonyen.github.io/post/markdown-syntax/</guid>
-      <description>第 3 天
-檢察官相驗
-靈媒莫名其妙來到家裡 並帶我們去事故現場招靈
-師兄師姐助念
-質疑為何念經
-（楊照的說法加上自己的反思）</description>
-    </item>
-    
-    <item>
-      <title>第0天 身體發出的聲音</title>
-      <link>https://willsonyen.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/</link>
-      <pubDate>Sun, 18 Oct 2020 10:13:20 +0800</pubDate>
-      
-      <guid>https://willsonyen.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/</guid>
+      <guid>https://willsonyen.github.io/post/day1/</guid>
       <description>2016/10/29，我和性別工作坊的成員在凱道參加同志大遊行，走到仁愛路時，接到我姐的電話，話筒裡含糊地聲音反覆說，爸爸走了、爸爸走了。我聽不清楚，反問你說什麼？走去哪了？遊行現場陷入無序的狂歡狀態，人們舉起標語、高呼口號。那些散落在底層的啜泣聲，我聽不見，只是不斷重複聽到：爸爸走了。
 我知道爸和姊當天約了一起吃晚餐，我以為，爸先走去餐廳了。可是不對啊，為何打電話來跟我說這件事？我脫離遊行隊伍，往空無一人的騎樓走去，那些躲在暗處的啜泣聲一點一點浮現，像一盞漸漸微亮的燈，照出事情真正的模樣。
 直到現在，我仍清晰的記得這句話當時從話筒中傳來的語調、它的停頓、它的節奏、句與句之間的空白、它重複的規律。這些聲音不是從耳朵外部傳來，而是從身體裡面發出的，即便嗚著耳朵也能清楚聽見，簡直是刻在骨頭上一般。正因如此，我發現聲音的記憶可以留存比想像中還久，而且立體的不可思議。
@@ -36,12 +22,27 @@
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://willsonyen.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>第20天</title>
+      <link>https://willsonyen.github.io/post/day20/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://willsonyen.github.io/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://willsonyen.github.io/post/day20/</guid>
+      <description>晚上，我抽太多菸了，跌跌撞撞回到家裡，進了浴室便坐倒在地板上，任由水不斷從頭頂上流下，久久不能睜開眼，一睜眼就暈。我後悔地想，拜託之後別再這樣子了，感覺肺裡塞滿一顆一顆的碎石頭，沒有空隙可以呼吸。
+第一次和朋友說明現在的情緒狀態。需要朋友做見證。在此之前，我消失在各種社群帳號中，就連比較 personal 的 line，也是已讀不回或不讀不回，都是由某位熱心的朋友 x 幫我和大家轉告：「他沒事，他需要時間。」我問朋友，你還記得怎麼笑嗎？想想我已經好久沒有笑了。</description>
+    </item>
+    
+    <item>
+      <title>第3天</title>
+      <link>https://willsonyen.github.io/post/day3/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://willsonyen.github.io/post/day3/</guid>
+      <description>第 3 天
+檢察官相驗
+靈媒莫名其妙來到家裡 並帶我們去事故現場招靈
+師兄師姐助念
+質疑為何念經
+（楊照的說法加上自己的反思）</description>
     </item>
     
     <item>
@@ -52,15 +53,6 @@
       <guid>https://willsonyen.github.io/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://willsonyen.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://willsonyen.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
