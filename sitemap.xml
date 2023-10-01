@@ -1,20 +1,235 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://willsonyen.github.io/index.en/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/test/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/index.zh-cn/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/%E6%B8%AC%E8%A9%A6index/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/categories/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/categories/documentation/_index.en/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/posts/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/installation/_index.zh-cn/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/configuration/_index.zh-cn/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://willsonyen.github.io/tags/content/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yenyentest.github.io/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/post/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/categories/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/istio/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/categories/tech/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/06/02/istio08/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/24/set_up_my_ubuntu_desktop/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/categories/tips/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/ubuntu/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/microservice/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/security/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/23/external_system_auth/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/23/service_2_service_auth/</loc>
+    <lastmod>2018-05-23T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/22/user_authentication_authorization/</loc>
+    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/23/istio-auto-injection-with-webhook/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/kubernetes/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/categories/life/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/travel/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/01/may-day-jiulonghu/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/helm/</loc>
+    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</loc>
+    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/api-gateway/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/service-mesh/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/04/11/service-mesh-vs-api-gateway/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/03/29/what-is-service-mesh-and-istio/</loc>
+    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/docker/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/tips/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/03/13/use-docker-behind-http-proxy/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/vim/</loc>
+    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/02/09/vim-tips/</loc>
+    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/02/09/docker-without-sudo/</loc>
+    <lastmod>2018-02-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/05/22/user_authentication_authorization/</loc>
+    <lastmod>2018-02-03T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/tags/nginmesh/</loc>
+    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2018/01/02/nginmesh-install/</loc>
+    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2017/11/28/access-application-from-outside/</loc>
+    <lastmod>2017-11-28T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2017/11/08/istio-canary-release/</loc>
+    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2017/11/07/istio-traffic-shifting/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2017/11/04/istio-install_and_example/</loc>
+    <lastmod>2017-11-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/2017/11/03/hello-world/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/notes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yenyentest.github.io/search/</loc>
+  </url>
+  
+</urlset>
